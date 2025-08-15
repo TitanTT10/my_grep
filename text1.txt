@@ -1,0 +1,4 @@
+Hello, I am [name].
+this is lowercase text
+THIS IS UPPERCASE TEXT
+bye bye
