@@ -8,4 +8,4 @@ Use the `-i` flag to turn on case insensitivity. <br>
 
 ### Credits
 YouTube tutorial: https://www.youtube.com/watch?v=PX4dEky1pxA <br>
-repo of said YouTube tutorial: https://github.com/federicoazzu/grep_for_beginners
+creator of said YouTube tutorial: https://www.youtube.com/@rustfully
