@@ -8,4 +8,4 @@ Use the `-i` flag to enable case insensitivity. <br>
 
 ### Credits
 YouTube tutorial: https://www.youtube.com/watch?v=PX4dEky1pxA <br>
-creator of the YouTube tutorial: https://www.youtube.com/@rustfully
+Creator of the YouTube tutorial: https://www.youtube.com/@rustfully
